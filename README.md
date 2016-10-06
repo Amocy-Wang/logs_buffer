@@ -1,2 +1,1 @@
-# logs_buffer
-Paper experiment log files
+Logs for open_nsfw and lenet
